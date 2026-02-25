@@ -1,0 +1,6 @@
+name: Amplihack
+description: Complete agentic engineering framework with 21 specialized agents, 4 workflows, and persistent context for philosophy-driven development.
+version: 1.0.0
+settings_sections: []
+per_project_config: true
+per_agent_config: true
